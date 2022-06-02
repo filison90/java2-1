@@ -14,9 +14,9 @@ public class Main {
 
       Scanner in = new Scanner(System.in);
       System.out.print("Введите стоймость билета: ");
-      int billet = in.nextInt();
+      int tiket = in.nextInt();
       int m = 20;
-      System.out.println("количество миль " + billet/m );
+      System.out.println("количество миль " + tiket/m );
 
 
 
